@@ -8,6 +8,7 @@ st.set_page_config(page_title="Password Security Simulator", layout="wide")
 
 st.title("Password Brute-Force & Vulnerability Countdown")
 st.write("An interactive simulation that analyzes the predictability of human behavior and how it could impact cybersecurity.")
+st.write("Made by Muhammad Alif Aryaguna (24/536649/TK/59540) of Information Engineering")
 
 # SIDEBAR CONFIGURATION
 st.sidebar.header("Attacker Settings")
